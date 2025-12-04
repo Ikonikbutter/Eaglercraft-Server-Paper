@@ -13,3 +13,6 @@ You can also download the EaglerMOTD plugin to animate your server's MOTD, and t
 
 
 https://panel.freemcserver.net/user/confirm?token=Dps00iqBr1owUhhKIASmxZ0YcQiaCqvtEx4wpRKcTX6iHQ5JsRGUmt7JY22jzik1IP3lQuxGMwxq2H5QcDCl7f5TOqan7yZJ84cgmJTFtlZnoPB5HoM56oCtkRUrY3T1_5sRldz2G8xhpCg-nOqdFYaQwnOurEor7F0j2j-bDOhzlaKrWdicUNJVH_wmXLuTni5l9zxeipSuGXHNb8xdJn0jmIRayZiZCDyJQUW5_uAINSjxRFkR0O5ZmuziPYI
+
+
+Https://www.xbox.com
