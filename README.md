@@ -16,3 +16,5 @@ https://panel.freemcserver.net/user/confirm?token=Dps00iqBr1owUhhKIASmxZ0YcQiaCq
 
 
 Https://www.xbox.com
+https://luckperms.net/editor/3YXJCd5K6s
+
